@@ -3,6 +3,8 @@
 # xybSign
 校友邦 多用户 自动签到(上传图片)、填写周报
 
+**原项目会出现不安全的请求，本项目进行了修复，现在openId为必填项！**
+
 ### 字太多了，不想看？
 just open it -> [异地打卡](https://xybfree.fanatics013.asia/)
 

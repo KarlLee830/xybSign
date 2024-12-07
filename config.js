@@ -4,7 +4,7 @@ const config = {
     {
       username: "", //用户名
       password: "", //密码
-      openId: "", //微信小程序抓包openid(可选)
+      openId: "", //微信小程序抓包openid(必填项)
       unionId: "", //微信小程序抓包unionId(可选)
       sign: true, //是否自动签到
       reSign: false, //是否重新签到
